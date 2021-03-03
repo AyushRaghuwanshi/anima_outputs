@@ -1,0 +1,1610 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Montserrat:700italic,600,400,500,700,300italic,400italic,900,300");
+
+@font-face {
+  font-family: "Helvetica-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("https://fonts.animaapp.com/Helvetica-Bold") format("truetype");
+}
+
+@font-face {
+  font-family: "Helvetica-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://fonts.animaapp.com/Helvetica-Regular") format("truetype");
+}
+
+* {
+  box-sizing: border-box;
+}
+.border-1px-mercury {
+  border: 1px solid var(--mercury);
+}
+.border-class-1 {
+  border: 2px solid rgba(255, 255, 255, 1);
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms {
+  align-items: center;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  height: 2587px;
+  width: 1440px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .address {
+  left: 0px;
+  letter-spacing: 0px;
+  line-height: 24px;
+  position: absolute;
+  top: 0px;
+  white-space: nowrap;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .auto-flex {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 474px;
+  width: 775px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .auto-flex1 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 6px;
+  min-width: 299px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .auto-flex2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 16px;
+  margin-top: 1.5px;
+  min-height: 390px;
+  width: 436px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .bitmap {
+  height: 373px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 734px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .button-text {
+  color: white;
+  font-family: "Montserrat", Helvetica, Arial, serif;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 1.62px;
+  line-height: 16px;
+  min-height: 24px;
+  min-width: 160px;
+  text-align: center;
+  white-space: nowrap;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .button-text-1 {
+  color: white;
+  font-family: "Montserrat", Helvetica, Arial, serif;
+  font-size: 20px;
+  font-weight: 700;
+  left: 12px;
+  letter-spacing: 0px;
+  line-height: 16px;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .exclusion-14 {
+  align-items: flex-start;
+  background-size: 100% 100%;
+  display: flex;
+  height: 12px;
+  justify-content: flex-end;
+  left: 0px;
+  min-width: 12px;
+  padding: 1px 1px;
+  position: absolute;
+  top: 0px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .exclusion-15 {
+  align-items: flex-start;
+  background-size: 100% 100%;
+  display: flex;
+  height: 9px;
+  left: 0px;
+  min-width: 12px;
+  padding: 1.1px 1.1px;
+  position: absolute;
+  top: 0px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .exclusion-6 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: -0px;
+  min-height: 14px;
+  width: 5px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .exclusion-7 {
+  align-items: flex-end;
+  display: flex;
+  height: 14px;
+  left: 0px;
+  min-width: 14px;
+  position: absolute;
+  top: 0px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .group {
+  align-items: flex-end;
+  display: flex;
+  height: 39px;
+  margin-top: 4px;
+  min-width: 245px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .group-121 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 81px;
+  min-width: 323px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .group-122 {
+  align-items: flex-end;
+  display: flex;
+  justify-content: flex-end;
+  min-width: 185px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .group-123 {
+  align-items: flex-end;
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 20px;
+  min-width: 241px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .group-124 {
+  align-items: center;
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 20px;
+  min-width: 239px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .group-125 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-right: 0px;
+  min-height: 112px;
+  width: 239px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .group-129 {
+  height: 16px;
+  width: 16px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .group-131 {
+  align-items: flex-start;
+  display: flex;
+  height: 17px;
+  overflow: hidden;
+  width: 21px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .group-132 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: -2px;
+  margin-top: -0.73px;
+  width: 21px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .group-133 {
+  align-items: flex-start;
+  display: flex;
+  height: 16px;
+  overflow: hidden;
+  width: 16px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .group-149 {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  height: 24px;
+  margin-left: 659px;
+  margin-top: 8px;
+  min-width: 238px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .group-150 {
+  align-items: flex-end;
+  display: flex;
+  height: 44px;
+  min-width: 330px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .group-171 {
+  align-items: flex-start;
+  display: flex;
+  height: 500px;
+  left: 339px;
+  min-width: 888px;
+  position: absolute;
+  top: 0px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .group-2 {
+  align-items: flex-end;
+  display: flex;
+  height: 22px;
+  margin-bottom: 4px;
+  margin-left: 8px;
+  min-width: 91px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .group-209 {
+  align-items: center;
+  background-size: 100% 100%;
+  display: flex;
+  height: 64px;
+  justify-content: flex-end;
+  left: 0px;
+  min-width: 888px;
+  padding: 0 20px;
+  position: absolute;
+  top: 0px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .group-212 {
+  align-items: flex-end;
+  display: flex;
+  height: 500px;
+  left: 0px;
+  min-width: 888px;
+  position: absolute;
+  top: 0px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .group-281 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 226px;
+  min-height: 242px;
+  position: absolute;
+  top: 144px;
+  width: 323px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .group-282 {
+  align-items: flex-end;
+  background: linear-gradient(108.43deg, #f99d1c 26.95%, #fd9706 81.06%);
+  border-radius: 2px;
+  box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.161);
+  display: flex;
+  height: 64px;
+  justify-content: flex-end;
+  margin-top: 10px;
+  min-width: 323px;
+  padding: 16px 80px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .group-283 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 1px;
+  margin-top: 5px;
+  min-width: 1227px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .group-284 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 24px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .group-285 {
+  align-items: flex-end;
+  display: flex;
+  min-width: 100px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .group-286 {
+  align-items: flex-end;
+  display: flex;
+  margin-left: 18px;
+  min-width: 61px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .group-287 {
+  align-items: flex-end;
+  display: flex;
+  margin-left: 17px;
+  min-width: 103px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .group-288 {
+  align-items: flex-end;
+  display: flex;
+  height: 29px;
+  min-width: 530px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .group-289 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-right: -2px;
+  margin-top: 53px;
+  min-height: 473px;
+  width: 88px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .group-29 {
+  align-items: flex-start;
+  background-color: black;
+  display: flex;
+  height: 48px;
+  left: 820px;
+  min-width: 48px;
+  position: absolute;
+  top: 226px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .group-29-1 {
+  margin-left: 14px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .group-29-2 {
+  left: 20px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .group-290 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-right: 1px;
+  margin-top: 53px;
+  min-height: 473px;
+  width: 89px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .group-291 {
+  margin-right: unset;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .group-295 {
+  align-items: flex-end;
+  background-color: whitesmoke;
+  border-radius: 4px;
+  display: flex;
+  margin-top: -0px;
+  min-width: 296px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .group-3 {
+  align-items: flex-end;
+  background-color: rgba(255, 245, 231, 1);
+  display: flex;
+  height: 56px;
+  justify-content: flex-end;
+  margin-top: 8px;
+  min-width: 323px;
+  padding: 6px 8px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .group-300 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 5px;
+  min-width: 1227px;
+  padding: 0 0px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .group-301 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 1px;
+  margin-top: 30px;
+  min-height: 434px;
+  width: 1227px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .group-302 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 1px;
+  margin-top: 30px;
+  min-height: 651px;
+  width: 1227px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .group-304 {
+  align-items: center;
+  display: flex;
+  height: 477px;
+  margin-left: 1px;
+  margin-top: 30px;
+  min-width: 1227px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .group-306 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  left: 1020px;
+  min-height: 552px;
+  position: absolute;
+  top: -20px;
+  width: 94px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .group-307 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  left: 692px;
+  min-height: 552px;
+  position: absolute;
+  top: -20px;
+  width: 98px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .group-308 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  left: 374px;
+  min-height: 552px;
+  position: absolute;
+  top: -20px;
+  width: 86px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .group-4-copy {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 589px;
+  margin-top: 0px;
+  min-width: 111px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .group-518 {
+  align-items: flex-start;
+  background-color: black;
+  display: flex;
+  min-width: 148px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .group-6 {
+  align-items: flex-start;
+  display: flex;
+  height: 436px;
+  justify-content: center;
+  left: 0px;
+  min-width: 775px;
+  position: absolute;
+  top: 0px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .group-6-1 {
+  align-items: flex-end;
+  background-color: var(--tree-poppy);
+  border-radius: 24px;
+  display: flex;
+  height: 24px;
+  justify-content: flex-end;
+  min-width: 24px;
+  padding: 6px 6px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .group-8 {
+  align-items: flex-end;
+  background-color: var(--tree-poppy);
+  border-radius: 24px;
+  display: flex;
+  height: 24px;
+  justify-content: flex-end;
+  min-width: 24px;
+  padding: 7.5px 7.5px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .group-80 {
+  align-items: flex-start;
+  display: flex;
+  height: 11px;
+  margin-left: 5px;
+  margin-top: 0.67px;
+  overflow: hidden;
+  width: 11px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .home-lanecom {
+  color: rgba(240, 78, 35, 1);
+  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-size: 40px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  margin-bottom: -4px;
+  min-height: 46px;
+  min-width: 206px;
+  text-align: center;
+  white-space: nowrap;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .iconactionbookm-order24px-copy {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 0px;
+  min-width: 19px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .iconactionbookmarkborder24px {
+  align-items: flex-start;
+  background-size: 100% 100%;
+  display: flex;
+  height: 14px;
+  justify-content: flex-end;
+  min-width: 11px;
+  padding: 1.6px 1.6px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .iconactionbookmarkborder24px-1 {
+  align-items: flex-start;
+  background-size: 100% 100%;
+  display: flex;
+  height: 18px;
+  justify-content: flex-end;
+  left: 0px;
+  min-width: 14px;
+  padding: 2px 2px;
+  position: absolute;
+  top: 0px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .iconfiledownload24px {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0px;
+  min-height: 17px;
+  position: absolute;
+  top: 0px;
+  width: 14px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .iconfiledownload24px-1 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  margin-left: 24px;
+  margin-top: 0px;
+  min-width: 24px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .iconfiledownload24px-copy {
+  align-items: flex-end;
+  display: flex;
+  margin-left: 24px;
+  min-width: 20px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .iconnavigationc-vronright24px {
+  align-items: flex-start;
+  background-size: 100% 100%;
+  display: flex;
+  height: 12px;
+  left: 20px;
+  min-width: 7px;
+  position: absolute;
+  top: 18px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .iconnavigationfullscreen24px {
+  align-items: flex-start;
+  display: flex;
+  height: 14px;
+  left: 0px;
+  min-width: 14px;
+  position: absolute;
+  top: 0px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .interiors-starting {
+  letter-spacing: 0px;
+  line-height: 16px;
+  margin-top: 21px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .mask {
+  align-items: flex-start;
+  display: flex;
+  justify-content: flex-end;
+  min-width: 12px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .mask-1 {
+  align-items: flex-end;
+  display: flex;
+  min-width: 12px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .offer-20-off-woodw {
+  color: var(--gravel);
+  font-family: "Montserrat", Helvetica, Arial, serif;
+  font-size: 14px;
+  height: 40px;
+  left: 0px;
+  letter-spacing: 0px;
+  line-height: 14px;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .offer-20-off-woodw-1 {
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  top: 3px;
+  width: 14px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .offer-20-off-woodw-2 {
+  letter-spacing: 0px;
+  line-height: 14px;
+  margin-bottom: -1px;
+  margin-left: 5px;
+  min-height: 20px;
+  min-width: 71px;
+  white-space: nowrap;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .offer-20-off-woodw-3 {
+  letter-spacing: 0px;
+  line-height: 14px;
+  margin-bottom: -1px;
+  margin-left: 5px;
+  min-height: 20px;
+  min-width: 32px;
+  white-space: nowrap;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .offer-20-off-woodw-4 {
+  letter-spacing: 0px;
+  line-height: 14px;
+  margin-bottom: -1px;
+  margin-left: 5px;
+  min-height: 20px;
+  min-width: 74px;
+  white-space: nowrap;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .overlap-group {
+  align-items: flex-start;
+  background-color: var(--black-haze);
+  box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.161);
+  display: flex;
+  height: 80px;
+  justify-content: flex-end;
+  min-width: 1440px;
+  padding: 15px 105.7px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .overlap-group-1 {
+  background-color: black;
+  border-radius: 100px;
+  height: 48px;
+  position: relative;
+  width: 48px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .overlap-group-2 {
+  height: 395px;
+  margin-bottom: -0px;
+  margin-left: -273px;
+  position: relative;
+  width: 734px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .overlap-group1 {
+  height: 539px;
+  margin-top: 30px;
+  position: relative;
+  width: 1228px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .overlap-group2 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: -2px;
+  margin-top: -2.67px;
+  min-width: 16px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .overlap-group2-1 {
+  align-items: center;
+  background-size: 100% 100%;
+  border-radius: 2px;
+  display: flex;
+  height: 490px;
+  margin-top: -26.93px;
+  min-width: 843px;
+  padding: 0 33.9px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .overlap-group2-2 {
+  border-radius: 100px;
+  height: 48px;
+  position: relative;
+  width: 323px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .overlap-group2-3 {
+  height: 24px;
+  margin-bottom: -6px;
+  position: relative;
+  width: 91px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .overlap-group2-4 {
+  align-items: center;
+  background-size: 100% 100%;
+  border-radius: 24px;
+  display: flex;
+  height: 24px;
+  justify-content: flex-end;
+  min-width: 24px;
+  padding: 0 6px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .overlap-group2-5 {
+  height: 12px;
+  margin-bottom: -0px;
+  position: relative;
+  width: 12px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .overlap-group2-6 {
+  border-radius: 2px;
+  height: 500px;
+  position: relative;
+  width: 1227px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .overlap-group2-7 {
+  height: 612px;
+  left: 0px;
+  position: absolute;
+  top: 39px;
+  width: 1227px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .overlap-group3 {
+  height: 31px;
+  position: relative;
+  width: 260px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .overlap-group3-1 {
+  height: 500px;
+  position: relative;
+  width: 888px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .overlap-group3-2 {
+  height: 48px;
+  left: 30px;
+  position: absolute;
+  top: 362px;
+  width: 173px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .overlap-group4 {
+  height: 436px;
+  margin-top: 7px;
+  position: relative;
+  width: 775px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .overlap-group4-1 {
+  align-items: flex-start;
+  background-color: white;
+  display: flex;
+  margin-left: -8px;
+  margin-top: -6px;
+  min-width: 24px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .overlap-group4-2 {
+  align-items: flex-start;
+  background-size: 100% 100%;
+  display: flex;
+  height: 618px;
+  margin-bottom: -117.5px;
+  min-width: 888px;
+  padding: 0.5px 0;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .overlap-group4-3 {
+  align-items: flex-start;
+  background-color: white;
+  display: flex;
+  margin-left: -6px;
+  margin-top: -4px;
+  min-width: 32px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .overlap-group4-4 {
+  align-items: flex-start;
+  background-color: white;
+  display: flex;
+  margin-left: -7px;
+  margin-top: -4.24px;
+  min-width: 34px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .overlap-group4-5 {
+  height: 24px;
+  margin-top: -0px;
+  position: relative;
+  width: 24px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .overlap-group4-6 {
+  height: 48px;
+  left: 30px;
+  position: absolute;
+  top: 472px;
+  width: 160px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .overlap-group5 {
+  height: 40px;
+  position: relative;
+  width: 305px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .overlap-group5-1 {
+  height: 9px;
+  position: relative;
+  width: 12px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .overlap-group5-2 {
+  height: 14px;
+  margin-top: -0px;
+  position: relative;
+  width: 14px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .overlap-group5-3 {
+  height: 48px;
+  left: 30px;
+  position: absolute;
+  top: 250px;
+  width: 206px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .overlap-group6 {
+  align-items: flex-start;
+  background-color: white;
+  display: flex;
+  margin-left: -8px;
+  margin-top: -8.57px;
+  min-width: 41px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .overlap-group6-1 {
+  background-color: white;
+  border-radius: 2px;
+  height: 612px;
+  margin-top: 10px;
+  position: relative;
+  width: 1227px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .overlap-group7 {
+  height: 24px;
+  margin-bottom: -0px;
+  position: relative;
+  width: 20px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .overlap-group7-1 {
+  height: 48px;
+  left: 30px;
+  position: absolute;
+  top: 140px;
+  width: 145px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .overlap-group8 {
+  height: 24px;
+  margin-top: -0px;
+  position: relative;
+  width: 19px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .overlap-group9 {
+  background-color: black;
+  border-radius: 100px;
+  height: 36px;
+  position: relative;
+  width: 148px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .path {
+  height: 10px;
+  width: 8px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .path-1 {
+  height: 4px;
+  width: 10px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .path-10 {
+  height: 5px;
+  margin-bottom: 0px;
+  margin-left: 3px;
+  width: 5px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .path-11 {
+  height: 5px;
+  left: 9px;
+  position: absolute;
+  top: 0px;
+  width: 5px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .path-12 {
+  height: 24px;
+  left: 1097px;
+  position: absolute;
+  top: 59px;
+  width: 19px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .path-142 {
+  height: 12px;
+  left: 159px;
+  position: absolute;
+  top: 19px;
+  width: 20px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .path-2 {
+  height: 4px;
+  left: 1px;
+  position: absolute;
+  top: 4px;
+  width: 10px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .path-20 {
+  height: 25px;
+  margin-left: -4px;
+  margin-top: -3.64px;
+  width: 30px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .path-3 {
+  height: 10px;
+  width: 10px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .path-4 {
+  height: 6px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 6px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .path-44 {
+  height: 9px;
+  width: 9px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .path-5 {
+  height: 13px;
+  width: 10px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .path-6 {
+  height: 13px;
+  margin-left: -0px;
+  width: 14px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .path-7 {
+  height: 2px;
+  margin-left: -0px;
+  margin-top: 2px;
+  width: 14px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .path-8 {
+  height: 5px;
+  margin-left: -0px;
+  width: 5px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .path-9 {
+  height: 5px;
+  margin-left: -0px;
+  margin-top: 4px;
+  width: 5px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .provident-sunworth {
+  left: 301px;
+  letter-spacing: 0px;
+  line-height: 16px;
+  position: absolute;
+  top: 325px;
+  white-space: nowrap;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .rectangle {
+  background-color: var(--gravel);
+  height: 16px;
+  width: 16px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .rectangle-1 {
+  background-color: black;
+  border-radius: 100px;
+  height: 48px;
+  left: 0px;
+  opacity: 0.25;
+  position: absolute;
+  top: 0px;
+  width: 48px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .rectangle-126 {
+  background-color: black;
+  border-radius: 100px;
+  height: 36px;
+  left: 0px;
+  opacity: 0.25;
+  position: absolute;
+  top: 0px;
+  width: 148px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .rectangle-2 {
+  background-color: white;
+  height: 24px;
+  width: 24px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .rectangle-3 {
+  height: 500px;
+  width: 888px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .rectangle-33 {
+  border-radius: 100px;
+  height: 48px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 323px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .rectangle-4 {
+  background-color: white;
+  height: 32px;
+  width: 32px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .rectangle-43 {
+  background-color: var(--star-dust);
+  height: 2px;
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 91px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .rectangle-5 {
+  background-color: white;
+  height: 34px;
+  width: 34px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .rectangle-6 {
+  background-color: white;
+  height: 41px;
+  width: 41px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .rectangle-67 {
+  background-color: black;
+  border-radius: 2px;
+  height: 436px;
+  opacity: 0.51;
+  width: 775px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .rectangle-69 {
+  background-color: var(--mercury);
+  height: 612px;
+  left: 258px;
+  position: absolute;
+  top: -39px;
+  width: 1px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .rectangle-70 {
+  background-color: var(--mercury);
+  height: 612px;
+  left: 575px;
+  position: absolute;
+  top: -39px;
+  width: 1px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .rectangle-71 {
+  background-color: var(--mercury);
+  height: 612px;
+  left: 903px;
+  position: absolute;
+  top: -39px;
+  width: 1px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .rectangle-85 {
+  border-radius: 4px;
+  height: 395px;
+  left: 274px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .rectangle-86 {
+  background-color: whitesmoke;
+  border-radius: 4px;
+  height: 395px;
+  left: 274px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .rectangle-87 {
+  height: 99px;
+  left: 274px;
+  position: absolute;
+  top: 296px;
+  width: 296px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .rectangle-copy-4 {
+  background-color: var(--gray-nurse);
+  height: 1px;
+  margin-top: 3px;
+  width: 436px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .rectangle-copy-4-1 {
+  background-color: var(--gray-nurse);
+  height: 1px;
+  margin-top: 50px;
+  width: 1440px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .rectangle-copy-4-10 {
+  background-color: var(--mercury);
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 128px;
+  width: 1227px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .rectangle-copy-4-11 {
+  background-color: var(--mercury);
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 239px;
+  width: 1227px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .rectangle-copy-4-12 {
+  background-color: var(--mercury);
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 350px;
+  width: 1227px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .rectangle-copy-4-13 {
+  background-color: var(--mercury);
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 461px;
+  width: 1227px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .rectangle-copy-4-2 {
+  height: 500px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 339px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .rectangle-copy-4-3 {
+  background-color: var(--mercury);
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 140px;
+  width: 339px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .rectangle-copy-4-4 {
+  background-color: var(--mercury);
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 230px;
+  width: 339px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .rectangle-copy-4-5 {
+  background-color: var(--mercury);
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 320px;
+  width: 339px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .rectangle-copy-4-6 {
+  background-color: var(--mercury);
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 410px;
+  width: 339px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .rectangle-copy-4-7 {
+  background-color: var(--mercury);
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 50px;
+  width: 339px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .rectangle-copy-4-8 {
+  border-radius: 2px;
+  height: 500px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1227px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .rectangle-copy-4-9 {
+  background-color: var(--mercury);
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 17px;
+  width: 1227px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .room-browser-scroll-up {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0px;
+  min-height: 539px;
+  position: absolute;
+  top: 0px;
+  width: 1228px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .see-whats-included {
+  left: 0px;
+  letter-spacing: 0px;
+  line-height: 14px;
+  position: absolute;
+  top: -10px;
+  white-space: nowrap;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .select {
+  color: var(--star-dust);
+  font-family: "Montserrat", Helvetica, Arial, serif;
+  font-size: 30px;
+  font-weight: 700;
+  letter-spacing: 0.6px;
+  line-height: 30px;
+  margin-bottom: -5.5px;
+  margin-left: 3px;
+  min-height: 39px;
+  min-width: 123px;
+  text-align: right;
+  white-space: nowrap;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .select-1 {
+  align-self: flex-end;
+  letter-spacing: 0px;
+  line-height: 20px;
+  margin-bottom: -4px;
+  min-height: 26px;
+  min-width: 222px;
+  text-align: right;
+  white-space: nowrap;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .span0-1ZT3Z6 {
+  color: rgba(74, 74, 74, 1);
+  font-family: "Montserrat", Helvetica, Arial, serif;
+  font-weight: 700;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .span0-tcqlAU {
+  color: rgba(249, 157, 28, 1);
+  font-family: "Helvetica-Bold", Helvetica, Arial, serif;
+  font-weight: 700;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .span1-1ZT3Z6 {
+  color: rgba(74, 74, 74, 1);
+  font-family: "Montserrat", Helvetica, Arial, serif;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .span1-tcqlAU {
+  font-family: "Helvetica-Bold", Helvetica, Arial, serif;
+  font-weight: 700;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .subtraction- {
+  align-items: flex-start;
+  background-color: white;
+  border-radius: 12px;
+  display: flex;
+  height: 24px;
+  justify-content: flex-end;
+  margin-bottom: -0px;
+  min-width: 24px;
+  padding: 4px 4px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .subtraction-4 {
+  align-items: flex-start;
+  background-color: white;
+  border-radius: 12px;
+  display: flex;
+  height: 24px;
+  justify-content: flex-end;
+  margin-top: 0px;
+  min-width: 24px;
+  padding: 5px 6.1px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .text-1 {
+  letter-spacing: 0px;
+  line-height: 14px;
+  margin-bottom: -1px;
+  margin-left: 10px;
+  min-height: 20px;
+  min-width: 207px;
+  white-space: nowrap;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .text-2 {
+  align-self: flex-end;
+  letter-spacing: 0px;
+  line-height: 14px;
+  margin-bottom: -1px;
+  margin-left: 10px;
+  min-height: 20px;
+  min-width: 205px;
+  white-space: nowrap;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .text-3 {
+  letter-spacing: 0px;
+  line-height: 32px;
+  margin-bottom: -5.5px;
+  margin-left: 2px;
+  min-height: 41px;
+  min-width: 131px;
+  white-space: nowrap;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .text-4 {
+  color: var(--star-dust);
+  font-family: "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size: 20px;
+  font-weight: 700;
+  left: 0px;
+  letter-spacing: 0px;
+  line-height: 14px;
+  position: absolute;
+  top: 0px;
+  white-space: nowrap;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .text-5 {
+  align-self: center;
+  color: var(--gravel);
+  font-family: "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: 0px;
+  line-height: 16px;
+  margin-top: 1px;
+  min-height: 24px;
+  min-width: 13px;
+  white-space: nowrap;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .text-6 {
+  letter-spacing: 0px;
+  line-height: 16px;
+  margin-top: 32px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .walk-through-rooms {
+  letter-spacing: 0px;
+  line-height: 14px;
+  margin-bottom: -1px;
+  margin-left: 10px;
+  min-height: 20px;
+  min-width: 151px;
+  white-space: nowrap;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .x15 {
+  align-items: flex-start;
+  display: flex;
+  height: 12px;
+  overflow: hidden;
+  width: 7px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .x17 {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .x18 {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .x19 {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 19px;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .x2-bhk-735-sqft {
+  left: 301px;
+  letter-spacing: 0px;
+  line-height: 16px;
+  position: absolute;
+  top: 349px;
+  white-space: nowrap;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .x360-walkthrough {
+  color: white;
+  font-family: "Montserrat", Helvetica, Arial, serif;
+  font-size: 21px;
+  font-weight: 700;
+  left: 31px;
+  letter-spacing: 0px;
+  line-height: 21px;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .x360-walkthrough-1 {
+  letter-spacing: 0px;
+  line-height: 24px;
+  min-height: 31px;
+  min-width: 88px;
+  text-align: right;
+  white-space: nowrap;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .x360-walkthrough-10 {
+  left: 30px;
+  letter-spacing: 0px;
+  line-height: 24px;
+  position: absolute;
+  top: 354px;
+  white-space: nowrap;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .x360-walkthrough-11 {
+  left: 30px;
+  letter-spacing: 0px;
+  line-height: 24px;
+  position: absolute;
+  top: 444px;
+  white-space: nowrap;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .x360-walkthrough-12 {
+  letter-spacing: 0px;
+  line-height: 24px;
+  margin-bottom: -4.5px;
+  min-height: 31px;
+  min-width: 272px;
+  white-space: nowrap;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .x360-walkthrough-13 {
+  letter-spacing: 0px;
+  line-height: 20px;
+  margin-bottom: -3px;
+  margin-left: 8px;
+  min-height: 26px;
+  min-width: 250px;
+  white-space: nowrap;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .x360-walkthrough-14 {
+  letter-spacing: 0px;
+  line-height: 18px;
+  margin-right: 4px;
+  min-height: 24px;
+  min-width: 66px;
+  text-align: center;
+  white-space: nowrap;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .x360-walkthrough-15 {
+  letter-spacing: 0px;
+  line-height: 18px;
+  min-height: 24px;
+  min-width: 98px;
+  text-align: center;
+  white-space: nowrap;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .x360-walkthrough-16 {
+  letter-spacing: 0px;
+  line-height: 24px;
+  margin-left: 1px;
+  margin-top: 80px;
+  min-height: 31px;
+  white-space: nowrap;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .x360-walkthrough-17 {
+  letter-spacing: 0px;
+  line-height: 18px;
+  min-height: 24px;
+  min-width: 94px;
+  text-align: center;
+  white-space: nowrap;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .x360-walkthrough-18 {
+  left: 29px;
+  letter-spacing: 0px;
+  line-height: 24px;
+  position: absolute;
+  top: 544px;
+  white-space: nowrap;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .x360-walkthrough-19 {
+  letter-spacing: 0px;
+  line-height: 24px;
+  min-height: 31px;
+  white-space: nowrap;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .x360-walkthrough-2 {
+  letter-spacing: 0px;
+  line-height: 24px;
+  margin-top: 80px;
+  min-height: 31px;
+  min-width: 88px;
+  text-align: right;
+  white-space: nowrap;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .x360-walkthrough-3 {
+  left: 0px;
+  letter-spacing: 0px;
+  line-height: 24px;
+  position: absolute;
+  top: -39px;
+  white-space: nowrap;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .x360-walkthrough-4 {
+  letter-spacing: 0px;
+  line-height: 32px;
+  min-height: 41px;
+  white-space: nowrap;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .x360-walkthrough-5 {
+  letter-spacing: 0px;
+  line-height: 24px;
+  margin-top: 5px;
+  min-height: 31px;
+  white-space: nowrap;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .x360-walkthrough-6 {
+  letter-spacing: 0px;
+  line-height: 24px;
+  margin-left: 1px;
+  min-height: 31px;
+  white-space: nowrap;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .x360-walkthrough-7 {
+  left: 30px;
+  letter-spacing: 0px;
+  line-height: 24px;
+  position: absolute;
+  top: 84px;
+  white-space: nowrap;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .x360-walkthrough-8 {
+  left: 30px;
+  letter-spacing: 0px;
+  line-height: 24px;
+  position: absolute;
+  top: 174px;
+  white-space: nowrap;
+}
+.hsd-14bb-details-page-walkthrough-4plus-rooms .x360-walkthrough-9 {
+  left: 30px;
+  letter-spacing: 0px;
+  line-height: 24px;
+  position: absolute;
+  top: 264px;
+  white-space: nowrap;
+}
+.montserrat-bold-gravel-16px {
+  color: var(--gravel);
+  font-family: "Montserrat", Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+}
+.montserrat-bold-gravel-18px {
+  color: var(--gravel);
+  font-family: "Montserrat", Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+}
+.montserrat-bold-gravel-24px {
+  color: var(--gravel);
+  font-family: "Montserrat", Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+}
+.montserrat-bold-gravel-32px {
+  color: var(--gravel);
+  font-family: "Montserrat", Helvetica, Arial, serif;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+}
+.montserrat-normal-gravel-14px {
+  color: var(--gravel);
+  font-family: "Montserrat", Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}
+.montserrat-normal-gravel-16px {
+  color: var(--gravel);
+  font-family: "Montserrat", Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+}
+.montserrat-normal-gravel-20px {
+  color: var(--gravel);
+  font-family: "Montserrat", Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.montserrat-normal-gravel-24px {
+  color: var(--gravel);
+  font-family: "Montserrat", Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+}
+.montserrat-normal-violet-blue-14px {
+  color: var(--violet-blue);
+  font-family: "Montserrat", Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}
+.montserrat-semi-bold-white-14px {
+  color: white;
+  font-family: "Montserrat", Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+}
+:root {
+  --black-haze: rgba(247, 247, 247, 1);
+  --gravel: rgba(74, 74, 74, 1);
+  --gray-nurse: rgba(232, 232, 232, 1);
+  --mercury: rgba(228, 228, 228, 1);
+  --star-dust: rgba(155, 155, 155, 1);
+  --tree-poppy: rgba(249, 157, 28, 1);
+  --violet-blue: rgba(63, 81, 181, 1);
+}
